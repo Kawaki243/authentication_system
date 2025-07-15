@@ -1,3 +1,3 @@
 export const AppConstants = {
-    BACEND_URL: 'https://gallant-empathy-production.up.railway.app/api/v1.0',
+    BACEND_URL: 'https://localhost:8080/api/v1.0',
 }
