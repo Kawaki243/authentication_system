@@ -1,4 +1,4 @@
-<h1 align="center"> 🛍️ Authentication System/h1>
+<h1 align="center"> 🛍️ Authentication System</h1>
 
 ## 📌 Overview
 The purpose of shopping application is to provide an online platform where user can easily browse the products, add them to cart and place the orders. It simplifies the shopping process for users and allows them to manage their profile and orders efficiently.
